@@ -98,7 +98,9 @@ figure{
 .site-logo a {
     display: block;
 }
-
+.toggle-menu {
+    cursor: pointer;
+}
 .mobile-header {
     background: #000;
     position: fixed;
